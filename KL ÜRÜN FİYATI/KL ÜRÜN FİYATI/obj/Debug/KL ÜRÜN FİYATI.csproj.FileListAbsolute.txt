@@ -1,0 +1,30 @@
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.exe.config
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.exe
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.pdb
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.SuggestedBindingRedirects.cache
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL_ÜRÜN_FİYATI.Form1.resources
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL_ÜRÜN_FİYATI.Properties.Resources.resources
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.GenerateResource.cache
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.exe
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.pdb
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.exe.manifest
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.application
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.exe.manifest
+C:\Users\alisa\OneDrive\Masaüstü\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.application
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.exe.config
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.exe.manifest
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.application
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.exe
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\bin\Debug\KL ÜRÜN FİYATI.pdb
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.SuggestedBindingRedirects.cache
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL_ÜRÜN_FİYATI.Form1.resources
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL_ÜRÜN_FİYATI.Properties.Resources.resources
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.GenerateResource.cache
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.exe.manifest
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.application
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.exe
+C:\Users\alisa\OneDrive\Masaüstü\Üretim\Program\KL ÜRÜN FİYATI\KL ÜRÜN FİYATI\obj\Debug\KL ÜRÜN FİYATI.pdb
